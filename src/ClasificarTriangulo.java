@@ -1,4 +1,5 @@
 //CLASE 1 - TEMA 1 - EJERCICIO 2
+// ESTOY PROBANDO GIT HUB
 import java.util.Scanner; //importamos clase Scanner
 
 public class ClasificarTriangulo {
@@ -7,7 +8,7 @@ public class ClasificarTriangulo {
        //Declaramos el Objeto Scanner para poder leer los datos ingresados
         Scanner teclado = new Scanner(System.in);
 
-        // Ingresamos los tres lados del triángulo
+        // Ingresamos los tres lados del triángulooogit add
         System.out.print("Ingrese el lado A: ");
         int a = teclado.nextInt();
 

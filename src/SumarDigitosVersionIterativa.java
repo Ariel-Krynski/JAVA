@@ -22,6 +22,7 @@ public class SumarDigitosVersionIterativa {
         }
 
         System.out.println("La suma de los dígitos es: " + suma);
+        //return suma; podemos hacer esto tambien y eliminar lo anterior
 
     }
 
@@ -31,3 +32,5 @@ public class SumarDigitosVersionIterativa {
 // El método recibe un número y utiliza un ciclo while para recorrer sus dígitos.
 // La variable suma acumula el valor de cada dígito, mientras que numero % 10 obtiene el último dígito y numero /= 10 lo elimina.
 // Llamamos al método desde el`main pasando el número 1234 y mostramos la suma de sus dígitos en pantalla.
+
+//DIAGRAMA: https://miro.com/app/board/uXjVHvSKvhc=/?share_link_id=227733656329

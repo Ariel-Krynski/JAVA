@@ -30,5 +30,5 @@ public class FactorialVersionIterativa{
 // La variable resultado acumula las multiplicaciones y guarda el factorial calculado.
 // Llamamos al método desde el main pasando el número 5 y mostramos el resultado en pantalla.
 
-// DIAGRAMA: 
+// DIAGRAMA: https://miro.com/app/board/uXjVHvSAQwc=/?share_link_id=67627412272
 

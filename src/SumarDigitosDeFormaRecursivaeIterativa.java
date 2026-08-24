@@ -1,4 +1,5 @@
 //CLASE 2 - TEMA 3 - EJERCICIO 1
+//EJERCICIO 5.4
 public class SumarDigitosDeFormaRecursivaeIterativa {
 
 
