@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+//REALIZADO EN CLASE, DISTINTO A LO REALIZADO POR EL PROFESOR PK ESTABA PROBANDO MEZCLAR LOS BUCLES
+
 public class OrdenarUnArregloPorBurbuja {
 
     public static void main(String[] args) {
@@ -19,8 +21,6 @@ public class OrdenarUnArregloPorBurbuja {
                 }
              System.out.println (i); //Para vizualizar los elementos que esta recorriendo.
 
-                
-            
         }
 
     }
